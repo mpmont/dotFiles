@@ -1,0 +1,14 @@
+{
+	"enable_auto_align": false,
+	"indent_with_space": true,
+	"passes":
+	[
+		"ConvertOpenTagWithEcho",
+		"PrettyPrintDocBlocks",
+		"ReturnNull",
+		"OnlyOrderUseClauses"
+	],
+	"psr1": false,
+	"psr2": true,
+	"version": 2
+}

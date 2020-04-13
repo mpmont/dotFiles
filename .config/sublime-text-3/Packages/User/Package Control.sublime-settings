@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"BracketHighlighter",
+		"CodeIgniter 4 Snippets",
+		"DocBlockr",
+		"DocPHPManualer",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"jQuery",
+		"MarkdownEditing",
+		"Material Theme",
+		"Package Control",
+		"PhpDoc",
+		"phpfmt",
+		"SideBarEnhancements",
+		"Terminus"
+	]
+}
