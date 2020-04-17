@@ -103,3 +103,4 @@ eval $(thefuck --alias)
 eval $(thefuck --alias FUCK)
 
 alias config='/usr/bin/git --git-dir=$HOME/Documents/Github/dotfiles/ --work-tree=$HOME'
+alias ls='exa --long --header --git'
