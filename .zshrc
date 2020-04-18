@@ -108,4 +108,4 @@ alias dup='sudo docker-compose up -d --build'
 alias dps='sudo docker-compose ps'
 alias dstop='sudo docker-compose stop'
 
-figlet welcome
+figlet welcome Marco
