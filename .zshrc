@@ -104,3 +104,8 @@ eval $(thefuck --alias FUCK)
 
 alias config='/usr/bin/git --git-dir=$HOME/Documents/Github/dotfiles/ --work-tree=$HOME'
 alias ls='exa --long --header --git'
+alias dup='sudo docker-compose up -d --build'
+alias dps='sudo docker-compose ps'
+alias dstop='sudo docker-compose stop'
+
+figlet welcome
