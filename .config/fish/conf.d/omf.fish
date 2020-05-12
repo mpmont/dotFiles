@@ -11,5 +11,7 @@ alias ls='exa --long --header --git'
 alias dup='sudo docker-compose up -d --build'
 alias dps='sudo docker-compose ps'
 alias dstop='sudo docker-compose stop'
+alias fuck='thefuck --alias | source'
+
 
 figlet welcome Marco
