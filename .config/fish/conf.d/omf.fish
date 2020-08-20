@@ -36,6 +36,9 @@ alias cp="cp -i"                          # confirm before overwriting something
 alias df='df -h'                          # human-readable sizes
 alias free='free -m'                      # show sizes in MB
 
+# Update
+alias update='sudo apt update && sudo apt upgrade'
+
 # git
 alias addup='git add -u'
 alias addall='git add .'
@@ -45,7 +48,7 @@ alias commit='git commit -m'
 alias fetch='git fetch'
 alias pull='git pull origin'
 alias push='git push origin'
-alias status='git status'
+alias gstatus='git status'
 alias tag='git tag'
 alias newtag='git tag -a'
 alias merge='git merge'
